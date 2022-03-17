@@ -6,6 +6,6 @@ Mark Blumenau
 
 Dmitrii Vorobev
 
-Fridman Mikhail (Capitan, lapinbank@gmail.com)
+Me: Fridman Mikhail (Capitan, lapinbank@gmail.com)
 
 We used stacking of 4 predictions in order to increase accuracy. If you need weights of our models feel free to write me. Predictions of each model and final submission is in /pred Folder
